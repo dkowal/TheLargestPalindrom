@@ -1,3 +1,2 @@
 # TheLargestPalindrom
-Put two five-digit-prime-number to console.
-Get the largest palindrom the multipiers themselves.
+Returns the largest number-palindrome, which is the product of two prime five-digit numbers and returns the multipliers themselves. 
